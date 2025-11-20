@@ -2,7 +2,7 @@
 Yoga_posture_detection_CNN
 
 # installation comments
-
+ cd yoga-pos
 # Create Env
 python -m venv .venv
 
@@ -11,6 +11,6 @@ python -m venv .venv
 
 #Install Requirements
 pip install -r requirements.txt
-
+cd poses
 # run
 python app.py
