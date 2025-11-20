@@ -2,7 +2,7 @@
 Yoga_posture_detection_CNN
 
 # installation comments
- cd yoga-pose
+ cd yogapose-main
 # Create Env
 python -m venv .venv
 
