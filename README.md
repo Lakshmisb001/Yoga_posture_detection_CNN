@@ -11,6 +11,7 @@ python -m venv .venv
 
 #Install Requirements
 pip install -r requirements.txt
+
 cd poses
 # run
 python app.py
